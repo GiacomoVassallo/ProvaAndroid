@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String nome = "Giacomo";
+        String nome1 = "Alex";
 
         if(nome.equals("Giacomo")){
             nome = "";
